@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;}
+    
+    
+
+
+    body{
+    
+        width:100vw;
+        height:100vh;
+        position: relative;
+        overflow: hidden;
+     
+    
+        
+    }
+
+   
+    .img {
+    background-image: url(https//br.freepik.com/vetores-gratis/plano-de-fundo-geometrico_23672605.htm#from_view=detail_serie);
+    position: absolute;
+    opacity: 0.4;
+    height: 100%;
+    width: 100%;
+    }
+
+    .Formulário{
+
+        
+        position: absolute;
+        margin-bottom: 500px;
+        margin: 450px;
+        margin-top: 200px;
+        text-align: center;
+        font-size: 10px;
+        font-family: 'Courier New', Courier, monospace;
+        color: purple; 
+    }
+
+    .Formulário2{
+
+        position: absolute;
+        margin: 450px;
+        margin-top: 200px;
+        text-align: center;
+        font-size: 10px;
+        font-family: 'Courier New', Courier, monospace;
+        color: orangered; 
+
+    }
+
+    .botao{
+
+        padding: 3px;
+        width: 100px;
+        margin: 50px;
+        margin-bottom: 700px;
+        position: absolute;
+        left: 700px;
+    }
+
+    .section-meus-recados{
+        height: 50%;
+        width: 70%;
+        margin-top: 200px;
+        margin: 150px;
+        position:absolute
+        
+    
+    }
+
+    .divMeusRecados{
+        text-align: center;
+        font-size: 15px;
+        font-family: 'Courier New', Courier, monospace;
+        color: rgb(58, 185, 228);    
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        height: 125px;
+        background-color: rgb(252, 224, 228);
+        
+      }
+      
+      th, td {
+        padding: 8px;
+        text-align: left;
+        border-bottom: 1px solid #DDD;
+        color: black;
+      }
+      tbody > tr:hover {background-color: #D6EEEE;} 
+
+      .descrição{
+        font-size: 15px;
+        font-family: 'Courier New', Courier, monospace;
+        color: black;    
+        text-align: center;
+      }
+
+     
